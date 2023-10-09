@@ -93,7 +93,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://instagram.fldb3-1.fna.fbcdn.net/v/t51.2885-19/306032424_186369877177276_4312125635918152468_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fldb3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=LpaeTo1XVgwAX9ao4JB&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDdPfXH2fxCz1mnpHga1iECRB5kXG1jGxbjcoSroTEh6A&oe=6409068C&_nc_sid=8fd12b" width="100px;" alt="Foto do jaoo"/><br>
+        <img src="https://media.licdn.com/dms/image/D4D03AQFLroVjynESvg/profile-displayphoto-shrink_200_200/0/1680563925083?e=1702512000&v=beta&t=oCbztRoBVcvYhGgpCV4yqj0WFrwU5JOpT3pT3ngzqYg" width="100px;" alt="Foto do jaoo"/><br>
         <sub>
           <b>Davi Demiciano Giovani</b>
         </sub>
